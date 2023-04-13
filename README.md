@@ -5,9 +5,11 @@ This project used the secrp256k1 crate to create the bitcoin and ethereum addres
 
 The working of the binary is as follows:
 
-binaryname network-name privateaddress(32 bytes)
+## binaryname network-name privateaddress(32 bytes)
 
 for example:
+
+
 ./walletcryptography bitcoin 9712a8a4cfbeeeaad44a631f0cce4892915b10f5b34df18e0f7ded09615496c5
 
 
